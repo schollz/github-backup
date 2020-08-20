@@ -1,6 +1,6 @@
 # github-backup
 
-As of [December 18](https://github.blog/2018-12-19-download-your-data/) you can download all your GitHub data with the click of a button. However, this doesn't work if you have too many repositories and will result in a unicorn page:
+As of [December, 2018](https://github.blog/2018-12-19-download-your-data/) you can download all your GitHub data with the click of a button. However, this doesn't work if you have too many repositories and will result in a unicorn page:
 
 ![Death screen](https://user-images.githubusercontent.com/6550035/90820186-d52b6300-e2e5-11ea-9849-f06dc3377154.png)
 
