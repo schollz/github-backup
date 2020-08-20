@@ -95,8 +95,6 @@ def github_init_migration():
             )
             with open(migrationjson, "w") as f2:
                 f2.write(json.dumps(response.json(), indent=4))
-            break
-
 
 def github_download_migration():
     # # check if migration is done and then download
